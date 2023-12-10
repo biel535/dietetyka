@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@coreui/angular": "^4.5.16",
+    "@coreui/icons-angular": "^4.5.16",
+    "@emailjs/browser": "^3.11.0",
+    "ngx-lightbox": "^3.0.0"
+  }
+}
